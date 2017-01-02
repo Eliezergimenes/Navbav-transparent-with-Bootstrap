@@ -1,0 +1,9 @@
+*{padding: 0;
+  margin: 0;}
+nav.navbar-transparente{
+  background: rgba(0,0,0,0.5);}
+.navbar-inverse .navbar-nav>li>a{
+  color: #fff;}
+.navbar-inverse .navbar-nav>li>a:hover{
+transition-duration: 0.5s;
+color: gray;}
